@@ -74,9 +74,9 @@ Financial systems and reporting frameworks for NGOs and healthcare institutions 
 ## 📫 Connect With Me
 
 - 🌐 **Portfolio:** [alshayebpartners.com/alshayeb/georgemakhlouf](https://alshayebpartners.com/alshayeb/georgemakhlouf)
-- 💼 **LinkedIn:** [linkedin.com/in/george-makhlouf]
+- 💼 **LinkedIn:** [www.linkedin.com/in/george-makhlouf]
 - 📧 **Email:** [george@alshayebpartners.com]
-- 🏢 **Company:** [AlShayeb Partners](https://alshayebpartners.com)
+- 🏢 **Company:** [AlShayeb Partners](https://alshayebpartners.com/alshayeb)
 
 ---
 
