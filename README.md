@@ -31,7 +31,7 @@ I specialize in building **finance-first Odoo ERP solutions** for SMEs, NGOs, an
 
 ### 🤝 Beit Jala "Love" Cooperative
 Complete end-to-end operational model for a community-driven cooperative - merging ERP structure with social impact and local economic development.
-
+**[→ View Complete System Flow](https://alshayebpartners.com/alshayeb/system-flow)**
 
 ### 🏨 Multi-Entity Groups
 ERP rollouts for complex organizations including hospitality, retail, and service divisions with consolidated financial reporting.
