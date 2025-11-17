@@ -1,5 +1,11 @@
 # 👋 Hi, I'm George Makhlouf
 
+![Odoo](https://img.shields.io/badge/Odoo-18%2F19-714B67?logo=odoo)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
 **Senior Odoo ERP Developer & Consultant | Finance-First ERP Solutions**
 
 🏢 Senior Developer at [AlShayeb Partners](https://alshayebpartners.com/alshayeb) - Auditors, Consultants & Odoo Experts  
