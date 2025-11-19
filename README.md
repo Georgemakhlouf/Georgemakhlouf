@@ -8,7 +8,7 @@
 
 **Senior Odoo ERP Implementor & Project Manager | Finance-First ERP Solutions**
 
-🏢 Senior ERP Consultant at [AlShayeb Partners](https://alshayebpartners.com) - Auditors, Consultants & Odoo Experts  
+🏢 Senior ERP Consultant at [AlShayeb Partners](https://alshayebpartners.com/alshayeb) - Auditors, Consultants & Odoo Experts  
 📍 Beit Jala, Palestine  
 💼 17+ years in Finance, Auditing & ERP Implementation
 
