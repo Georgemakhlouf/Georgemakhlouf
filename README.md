@@ -6,9 +6,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-**Senior Odoo ERP Developer & Consultant | Finance-First ERP Solutions**
+**Senior Odoo ERP Implementor & Project Manager | Finance-First ERP Solutions**
 
-🏢 Senior Developer at [AlShayeb Partners](https://alshayebpartners.com/alshayeb) - Auditors, Consultants & Odoo Experts  
+🏢 Senior ERP Consultant at [AlShayeb Partners](https://alshayebpartners.com) - Auditors, Consultants & Odoo Experts  
 📍 Beit Jala, Palestine  
 💼 17+ years in Finance, Auditing & ERP Implementation
 
@@ -16,14 +16,17 @@
 
 ## 🎯 What I Do
 
-I specialize in building **finance-first Odoo ERP solutions** for SMEs, NGOs, and manufacturers across the Middle East. My work combines accounting integrity, operational efficiency, and structured process design.
+I lead **full-cycle Odoo ERP implementations** for SMEs, NGOs, and manufacturers across the Middle East. My approach combines deep accounting and auditing expertise with hands-on project management and technical configuration skills.
 
-**Core Expertise:**
-- 🔧 **Odoo Development** (v18-19, Enterprise & Custom Modules)
-- 💰 **Financial Systems** (Accounting, Payroll, Compliance)
-- 🏭 **Manufacturing ERP** (MRP, Production Planning, Quality Control)
-- 📊 **Business Intelligence** (Executive Dashboards, KPI Tracking)
-- 🌍 **Arabic & English** bilingual implementations
+**My Role:**
+- 📋 **ERP Project Management** - Discovery, requirements, implementation, go-live & support
+- 🔍 **Business Process Analysis** - Mapping workflows, identifying gaps, designing solutions
+- ⚙️ **Odoo Configuration** - System setup, module customization, business logic implementation
+- 💻 **Technical Customization** - Hands-on coding when needed (Python, JavaScript, QWeb)
+- 📊 **Financial Systems Design** - Chart of accounts, reporting, compliance frameworks
+- 👥 **Stakeholder Management** - Training, change management, executive reporting
+
+**Not a full-time developer** - but I can read, modify, and write code to deliver the right solution.
 
 ---
 
@@ -41,39 +44,55 @@ Financial systems and reporting frameworks for NGOs and healthcare institutions 
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Capabilities
 
-**ERP & Backend:**
-- Odoo Framework (Python, OWL, QWeb)
-- PostgreSQL, Data Migration
-- Custom Module Development
+**ERP Implementation:**
+- Odoo Framework (v18-19, Enterprise & Community)
+- Gap analysis & solution design
+- Data migration & integration
+- User training & documentation
+- Post-implementation support
+
+**Technical Skills:**
+- Python (Odoo backend development)
+- JavaScript, OWL Framework
+- QWeb reports & customization
+- PostgreSQL & data modeling
+- API integration
+- Arabic/English bilingual systems
+
+**Project Management:**
+- Full ERP project lifecycle
+- Requirements gathering & documentation
+- Testing & quality assurance
+- Change management
+- Stakeholder communication
+
+**Business Expertise:**
+- Financial accounting & auditing
+- Internal controls & compliance
+- Manufacturing operations
+- NGO & donor reporting
 - OpenFormat
-
-**Frontend & Visualization:**
-- React, React Flow
-- HTML/CSS, JavaScript
-- Responsive Design
-- Arabic UI/UX
-
-**Integration & Automation:**
-- n8n Workflows
-- API Development
-- Business Process Automation
-- Third-party System Integration
-
-**Tools & Platforms:**
-- Git, Docker
-- Linux Server Administration
-- Excel/Data Processing
-- Technical Documentation
-
+  
 ---
 
 ## 🎓 Background
 
 - 🏫 **Bethlehem University** - BBA Accounting (2002-2006)
+- 💼 **Previous Role:** Financial Manager at BASR (2007-2019)
 - 📜 **Certifications:** Odoo Middle East DMCC (2025), USAID (2010), UCS (2010)
-- 💼 **Previous:** Financial Manager at BASR (2007-2019)
+- 🔍 **Core Expertise:** Finance + Auditing + ERP = 17 years of integrated experience
+
+---
+
+## 💡 My Approach
+
+I bridge the gap between **business needs** and **technical solutions**. 
+
+With a strong foundation in finance and auditing, I understand what organizations truly need from their ERP system - not just what's technically possible. I can communicate with executives about ROI and compliance, with end-users about daily workflows, and with developers about technical requirements.
+
+When standard Odoo doesn't fit, I roll up my sleeves and code the solution. When it does fit, I configure smartly and move fast.
 
 ---
 
@@ -90,9 +109,22 @@ Financial systems and reporting frameworks for NGOs and healthcare institutions 
 
 > "Building systems that help communities grow through transparency and collaboration."
 
-I'm passionate about creating ERP solutions that don't just track numbers—they empower organizations to make better decisions, maintain compliance, and achieve sustainable growth.
+ERP isn't just software - it's about transforming how organizations work. I focus on implementations that deliver real business value: better decisions, stronger compliance, sustainable growth.
 
 ---
+
+## 📊 Current Focus
+
+- 🔄 Odoo 18/19 implementations for Palestinian & Middle Eastern businesses
+- 🏭 Manufacturing process optimization
+- 🤝 Community cooperative systems
+- 📈 Finance-first ERP methodology
+
+---
+
+*Open to ERP implementation projects, consulting collaborations, and knowledge-sharing with the Odoo community.*
+
+
 
 ## 📊 GitHub Stats
 
